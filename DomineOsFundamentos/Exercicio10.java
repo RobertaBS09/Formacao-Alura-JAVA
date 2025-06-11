@@ -1,3 +1,4 @@
+package DomineOsFundamentos;
 public class Exercicio10 {
     public static void main(String[] args) {
         double consumoMedio = 12.5;

@@ -1,3 +1,4 @@
+package DomineOsFundamentos;
 public class Exercicio08 {
     public static void main(String[] args) {
         double valorReais = 451.50;

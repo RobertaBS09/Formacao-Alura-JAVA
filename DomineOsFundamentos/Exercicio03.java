@@ -1,3 +1,4 @@
+package DomineOsFundamentos;
 public class Exercicio03 {
     public static void main(String[] args) {
         double media;
