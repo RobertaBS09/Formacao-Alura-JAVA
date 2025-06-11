@@ -1,3 +1,5 @@
+package CondicionaisIfElse;
+
 import java.util.Scanner;
 
 public class Exercicio01IF {
