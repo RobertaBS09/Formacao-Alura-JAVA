@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LacoDeRepeticao/LacoDeRepeticao.iml" filepath="$PROJECT_DIR$/LacoDeRepeticao/LacoDeRepeticao.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Praticando JAVA.iml" filepath="$PROJECT_DIR$/.idea/Praticando JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringRegex/StringRegex.iml" filepath="$PROJECT_DIR$/StringRegex/StringRegex.iml" />
     </modules>
   </component>
 </project>
