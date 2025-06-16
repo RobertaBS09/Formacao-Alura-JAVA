@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataEHora/DataEHora.iml" filepath="$PROJECT_DIR$/DataEHora/DataEHora.iml" />
       <module fileurl="file://$PROJECT_DIR$/LacoDeRepeticao/LacoDeRepeticao.iml" filepath="$PROJECT_DIR$/LacoDeRepeticao/LacoDeRepeticao.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Praticando JAVA.iml" filepath="$PROJECT_DIR$/.idea/Praticando JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringRegex/StringRegex.iml" filepath="$PROJECT_DIR$/StringRegex/StringRegex.iml" />
